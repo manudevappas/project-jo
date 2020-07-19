@@ -1,0 +1,14 @@
+Neme 			type	 	quantity
+	
+arduino 	=	uno		1
+temp sensor 	=	lm35		1
+regualtor	=	7805		2
+potentiometer 	=	10k		2
+16*2 display 	=	alphanumaric	1
+heater		=			1
+motor 		=			1
+push button	=			2
+resistor 	=	10k		2
+wire		=	single stand 	feW
+PCB		=	general purpose	1
+	
